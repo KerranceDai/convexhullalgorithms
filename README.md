@@ -4,7 +4,7 @@ CSE 381: 3D Game Programming
 Fall 2022  
 Homework #2
 <br><br>
-A remake of five collision detection algorithms from https://algorithms-for-games.firebaseapp.com/ in C++.
+A reimplementation of five collision detection algorithms from https://algorithms-for-games.firebaseapp.com/ in C++.
 - Minkowski Difference
 - Minkowski Sum
 - Quickhull
